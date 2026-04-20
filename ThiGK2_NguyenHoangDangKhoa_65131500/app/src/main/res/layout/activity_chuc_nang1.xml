@@ -9,14 +9,14 @@
         android:id="@+id/edtTien"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Nhập số tiền (VD: 100)"
+        android:hint="Nhập số tiền"
         android:inputType="numberDecimal"/>
 
     <EditText
         android:id="@+id/edtTiGia"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Nhập tỉ giá (VD: 25000)"
+        android:hint="Nhập tỉ giá"
         android:inputType="numberDecimal"
         android:layout_marginTop="10dp"/>
 
