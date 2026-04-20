@@ -23,7 +23,7 @@
         android:layout_marginBottom="20dp"
         android:padding="5dp"
         android:background="#FFFFFF"
-        android:src="@drawable/my_avatar" />
+        android:src="@drawable/dangkhoa.jpg" />
 
     <LinearLayout
         android:layout_width="match_parent"
