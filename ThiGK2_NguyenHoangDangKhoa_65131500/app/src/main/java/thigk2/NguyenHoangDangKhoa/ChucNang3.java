@@ -24,9 +24,9 @@ public class ChucNang3 extends AppCompatActivity {
         ArrayList<DanhNhan> list = new ArrayList<>();
 
         // Truyền thẳng ảnh vào đây (nhớ thay hinh1, hinh2 bằng tên ảnh thật của mày trong drawable)
-        list.add(new DanhNhan("Trần Hưng Đạo", "Nam Định", R.drawable.hinh1));
+        list.add(new DanhNhan("Nguyễn Du", "Nam Định", R.drawable.hinh1));
         list.add(new DanhNhan("Nguyễn Trãi", "Hải Dương", R.drawable.hinh2));
-        list.add(new DanhNhan("Võ Nguyên Giáp", "Quảng Bình", R.drawable.hinh3));
+        list.add(new DanhNhan("Nguyễn Đình Chiểu", "Quảng Bình", R.drawable.hinh3));
         list.add(new DanhNhan("Quang Trung", "Bình Định", R.drawable.hinh4));
         list.add(new DanhNhan("Hồ Chí Minh", "Nghệ An", R.drawable.hinh5));
 
