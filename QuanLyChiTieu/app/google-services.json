@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23532061604",
+    "project_id": "android-projects-fc839",
+    "storage_bucket": "android-projects-fc839.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23532061604:android:5247992fa830d61571f731",
+        "android_client_info": {
+          "package_name": "khoa.edu.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNxFz-lEztqvXROsBDVFpZDOCo5pdnAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
