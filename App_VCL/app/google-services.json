@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621327543791",
+    "project_id": "vieccanlam-d8b8b",
+    "storage_bucket": "vieccanlam-d8b8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621327543791:android:bec846a851adec60f25a1a",
+        "android_client_info": {
+          "package_name": "khoa.edu.vieccanlam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVrIhyZgg69gq3UXTS8YzdpNAFJwfeCKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
